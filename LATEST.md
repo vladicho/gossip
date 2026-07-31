@@ -2,18 +2,18 @@
 
 Atualização de 2026-07-31. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
 
-- **Insólito — [Panificadores dicen que el alza del dólar elevará el costo de los insumos para elaborar pan](https://unitel.bo/noticias/economia/panificadores-dicen-que-el-alza-del-dolar-elevara-el-costo-de-los-insumos-para-elaborar-pan-NG22535811)**
-  Panificadores dicen que el alza del dólar elevará el costo de los insumos para elaborar pan
+- **Insólito — [¿Qué ocasionó los fuertes vientos en Cochabamba? Esto explica el Senamhi](https://unitel.bo/noticias/sociedad/que-ocasiono-los-fuertes-vientos-en-cochabamba-esto-explica-el-senamhi-BA22554720)**
+  ¿Qué ocasionó los fuertes vientos en Cochabamba? Esto explica el Senamhi
 
-- **Insólito — [Economista: Sin reformas de fondo y mayor confianza en el Gobierno, el dólar seguirá bajo presión](https://unitel.bo/noticias/economia/economista-sin-reformas-de-fondo-y-mayor-confianza-en-el-gobierno-el-dolar-seguira-bajo-presion-IG22536259)**
-  Economista: Sin reformas de fondo y mayor confianza en el Gobierno, el dólar seguirá bajo presión
+- **Insólito — [Bolivia cierra julio con falta de diésel, pese a la proyección de YPFB de resolver el desabastecimiento](https://unitel.bo/noticias/economia/bolivia-cierra-julio-con-falta-de-diesel-pese-a-la-proyeccion-de-ypfb-de-resolver-el-desabastecimiento-PA22555974)**
+  Bolivia cierra julio con falta de diésel, pese a la proyección de YPFB de resolver el desabastecimiento
 
-- **Insólito — [Estados Unidos se suma a los miembros de la Misión OEA y respalda a Rodrigo Paz](https://unitel.bo/noticias/politica/estados-unidos-se-suma-a-los-miembros-de-la-mision-oea-y-respalda-a-rodrigo-paz-GG22536321)**
-  Estados Unidos se suma a los miembros de la Misión OEA y respalda a Rodrigo Paz
+- **Insólito — [Santa Cruz: Comerciantes de celulares señalan que debido a la variación del dólar no pueden mantener precios fijos](https://unitel.bo/noticias/economia/santa-cruz-comerciantes-de-celulares-senalan-que-debido-a-la-variacion-del-dolar-no-pueden-mantener-precios-fijos-GA22552051)**
+  Santa Cruz: Comerciantes de celulares señalan que debido a la variación del dólar no pueden mantener precios fijos
 
-- **Insólito — [“Bolivia es un espacio propicio para la impunidad”, dice analista ante una ola de violencia en el país](https://unitel.bo/noticias/seguridad/bolivia-es-un-espacio-propicio-para-la-impunidad-dice-analista-ante-una-ola-de-violencia-en-el-pais-GG22534255)**
-  “Bolivia es un espacio propicio para la impunidad”, dice analista ante una ola de violencia en el país
+- **Insólito — [Accidente en la ruta Oruro-Cochabamba deja tres muertos de una familia, entre ellos un bebé; un niño de 3 años se salvó](https://unitel.bo/noticias/seguridad/accidente-en-la-ruta-oruro-cochabamba-deja-tres-muertos-de-una-familia-entre-ellos-un-bebe-un-nino-de-3-anos-se-salvo-JA22554058)**
+  Accidente en la ruta Oruro-Cochabamba deja tres muertos de una familia, entre ellos un bebé; un niño de 3 años se salvó
 
-- **Insólito — [“Por un error de dedo”: Doria Medina republica mensaje de Tuto sobre el FMI y luego lo borra](https://unitel.bo/noticias/politica/por-un-error-de-dedo-doria-medina-republica-mensaje-de-tuto-sobre-el-fmi-y-luego-lo-borra-HG22535828)**
-  “Por un error de dedo”: Doria Medina republica mensaje de Tuto sobre el FMI y luego lo borra
+- **Insólito — [Familiares realizan velorio simbólico en memoria del subteniente que fue abatido en San Matías](https://unitel.bo/noticias/sociedad/familiares-realizan-velorio-simbolico-en-memoria-del-subteniente-que-fue-abatido-en-san-matias-DA22552724)**
+  Familiares realizan velorio simbólico en memoria del subteniente que fue abatido en San Matías
 
