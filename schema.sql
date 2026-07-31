@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS comments (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  post_url TEXT NOT NULL,
+  name TEXT NOT NULL,
+  comment TEXT NOT NULL,
+  created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+CREATE INDEX IF NOT EXISTS comments_post_idx ON comments(post_url, created_at DESC);
