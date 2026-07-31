@@ -11,6 +11,11 @@ const decode = (value) => value
   .replace(/\s+/g, ' ')
   .trim();
 
+const meta = (html, property) => {
+  const pattern = new RegExp(`<meta[^>]+(?:property|name)=["']${property}["'][^>]+content=["']([^"']*)["']`, 'i');
+  return decode(html.match(pattern)?.[1] || '');
+};
+
 export async function onRequestGet() {
   try {
     const response = await fetch(SOURCE, {
@@ -35,7 +40,25 @@ export async function onRequestGet() {
       if (items.length === 12) break;
     }
 
-    return Response.json({ source: SOURCE, items }, {
+    const visitedItems = await Promise.all(items.map(async (item) => {
+      try {
+        const articleResponse = await fetch(item.url, {
+          headers: { 'User-Agent': 'gossip-public-index/1.0' },
+          cf: { cacheTtl: 900, cacheEverything: true }
+        });
+        if (!articleResponse.ok) return { ...item, visited: false };
+        const articleHtml = await articleResponse.text();
+        return {
+          ...item,
+          summary: meta(articleHtml, 'description') || meta(articleHtml, 'og:description'),
+          visited: true
+        };
+      } catch {
+        return { ...item, visited: false };
+      }
+    }));
+
+    return Response.json({ source: SOURCE, items: visitedItems }, {
       headers: { 'Cache-Control': 'public, max-age=900' }
     });
   } catch (error) {
