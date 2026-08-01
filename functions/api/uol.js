@@ -1,5 +1,6 @@
 const SOURCE = 'https://www.uol.com.br/';
 const UOL_HOSTS = new Set(['uol.com.br', 'www.uol.com.br', 'noticias.uol.com.br']);
+const politicalPattern = /\b(política|político|política|governo|presidente|congresso|senado|câmara|eleição|eleitoral|partido|lula|bolsonaro|ministro|ministra|deputado|deputada|senador|senadora|vereador|vereadora|prefeito|prefeita|stf|supremo|moraes|pt|pl)\b/i;
 
 const decode = (value) => value
   .replace(/&nbsp;/gi, ' ')
@@ -58,7 +59,12 @@ export async function onRequestGet() {
       }
     }));
 
-    return Response.json({ source: SOURCE, items: visitedItems }, {
+    const classifiedItems = visitedItems.map((item) => ({
+      ...item,
+      category: politicalPattern.test(`${item.title} ${item.url} ${item.summary || ''}`) ? 'política' : 'não política'
+    }));
+
+    return Response.json({ source: SOURCE, items: classifiedItems }, {
       headers: { 'Cache-Control': 'public, max-age=900' }
     });
   } catch (error) {
