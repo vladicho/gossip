@@ -61,7 +61,8 @@ export async function onRequestGet() {
 
     const classifiedItems = visitedItems.map((item) => ({
       ...item,
-      category: politicalPattern.test(`${item.title} ${item.url} ${item.summary || ''}`) ? 'política' : 'não política'
+      category: politicalPattern.test(`${item.title} ${item.url} ${item.summary || ''}`) ? 'política' : 'não política',
+      classification: 'automática'
     }));
 
     return Response.json({ source: SOURCE, items: classifiedItems }, {
