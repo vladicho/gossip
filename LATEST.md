@@ -1,19 +1,19 @@
 # Gossip
 
-Atualização de 2026-07-31. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
+Atualização de 2026-08-02. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
 
-- **Insólito — [¿Qué ocasionó los fuertes vientos en Cochabamba? Esto explica el Senamhi](https://unitel.bo/noticias/sociedad/que-ocasiono-los-fuertes-vientos-en-cochabamba-esto-explica-el-senamhi-BA22554720)**
-  ¿Qué ocasionó los fuertes vientos en Cochabamba? Esto explica el Senamhi
+- **Insólito — [Atentado guerrillero deja 14 heridos en Colombia a días de la investidura presidencial](https://unitel.bo/noticias/mundo/atentado-guerrillero-deja-14-heridos-en-colombia-a-dias-de-la-investidura-presidencial-LD22568210)**
+  Atentado guerrillero deja 14 heridos en Colombia a días de la investidura presidencial
 
-- **Insólito — [Bolivia cierra julio con falta de diésel, pese a la proyección de YPFB de resolver el desabastecimiento](https://unitel.bo/noticias/economia/bolivia-cierra-julio-con-falta-de-diesel-pese-a-la-proyeccion-de-ypfb-de-resolver-el-desabastecimiento-PA22555974)**
-  Bolivia cierra julio con falta de diésel, pese a la proyección de YPFB de resolver el desabastecimiento
+- **Insólito — [La Paz: Reportan incendio forestal en Sapahaqui y vecinos piden apoyo para frenar su avance](https://unitel.bo/noticias/sociedad/la-paz-reportan-incendio-forestal-en-sapahaqui-y-vecinos-piden-apoyo-para-frenar-su-avance-BC22571055)**
+  La Paz: Reportan incendio forestal en Sapahaqui y vecinos piden apoyo para frenar su avance
 
-- **Insólito — [Santa Cruz: Comerciantes de celulares señalan que debido a la variación del dólar no pueden mantener precios fijos](https://unitel.bo/noticias/economia/santa-cruz-comerciantes-de-celulares-senalan-que-debido-a-la-variacion-del-dolar-no-pueden-mantener-precios-fijos-GA22552051)**
-  Santa Cruz: Comerciantes de celulares señalan que debido a la variación del dólar no pueden mantener precios fijos
+- **Insólito — [Trasladan el cuerpo del subteniente Yerson Salazar a la morgue de San Ignacio de Velasco](https://unitel.bo/noticias/seguridad/trasladan-el-cuerpo-del-subteniente-yerson-salazar-a-la-morgue-de-san-ignacio-de-velasco-DC22570571)**
+  Trasladan el cuerpo del subteniente Yerson Salazar a la morgue de San Ignacio de Velasco
 
-- **Insólito — [Accidente en la ruta Oruro-Cochabamba deja tres muertos de una familia, entre ellos un bebé; un niño de 3 años se salvó](https://unitel.bo/noticias/seguridad/accidente-en-la-ruta-oruro-cochabamba-deja-tres-muertos-de-una-familia-entre-ellos-un-bebe-un-nino-de-3-anos-se-salvo-JA22554058)**
-  Accidente en la ruta Oruro-Cochabamba deja tres muertos de una familia, entre ellos un bebé; un niño de 3 años se salvó
+- **Insólito — [Policía anuncia el plan ‘Halcón’ contra el crimen organizado y llegan refuerzos a San Matías](https://unitel.bo/noticias/seguridad/policia-anuncia-el-plan-halcon-contra-el-crimen-organizado-y-llegan-refuerzos-a-san-matias-MC22570185)**
+  Policía anuncia el plan ‘Halcón’ contra el crimen organizado y llegan refuerzos a San Matías
 
-- **Insólito — [Familiares realizan velorio simbólico en memoria del subteniente que fue abatido en San Matías](https://unitel.bo/noticias/sociedad/familiares-realizan-velorio-simbolico-en-memoria-del-subteniente-que-fue-abatido-en-san-matias-DA22552724)**
-  Familiares realizan velorio simbólico en memoria del subteniente que fue abatido en San Matías
+- **Insólito — [Gobierno prevé ingresar cerca de $us 1.200 millones por desembolsos externos en las próximas semanas](https://unitel.bo/noticias/economia/gobierno-preve-ingresar-cerca-de-us-1200-millones-por-desembolsos-externos-en-las-proximas-semanas-CD22569812)**
+  Gobierno prevé ingresar cerca de $us 1.200 millones por desembolsos externos en las próximas semanas
 
