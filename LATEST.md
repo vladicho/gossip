@@ -1,19 +1,16 @@
 # Gossip
 
-Atualização de 2026-08-02. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
+Atualização de 2026-08-03. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
 
-- **Insólito — [Atentado guerrillero deja 14 heridos en Colombia a días de la investidura presidencial](https://unitel.bo/noticias/mundo/atentado-guerrillero-deja-14-heridos-en-colombia-a-dias-de-la-investidura-presidencial-LD22568210)**
-  Atentado guerrillero deja 14 heridos en Colombia a días de la investidura presidencial
+- **Insólito — [Tras asesinato en San Ignacio, Policía ejecuta operativos con unidades especializadas en busca de los atacantes](https://unitel.bo/noticias/seguridad/tras-asesinato-en-san-ignacio-policia-ejecuta-operativos-con-unidades-especializadas-en-busca-de-los-atacantes-GN22584435)**
+  Tras asesinato en San Ignacio, Policía ejecuta operativos con unidades especializadas en busca de los atacantes
 
-- **Insólito — [La Paz: Reportan incendio forestal en Sapahaqui y vecinos piden apoyo para frenar su avance](https://unitel.bo/noticias/sociedad/la-paz-reportan-incendio-forestal-en-sapahaqui-y-vecinos-piden-apoyo-para-frenar-su-avance-BC22571055)**
-  La Paz: Reportan incendio forestal en Sapahaqui y vecinos piden apoyo para frenar su avance
+- **Insólito — [Informe especial: Bolivia celebrará 201 en medio de una crisis](https://unitel.bo/noticias/politica/informe-especial-bolivia-celebrara-201-en-medio-de-una-crisis-FN22584247)**
+  Informe especial: Bolivia celebrará 201 en medio de una crisis
 
-- **Insólito — [Trasladan el cuerpo del subteniente Yerson Salazar a la morgue de San Ignacio de Velasco](https://unitel.bo/noticias/seguridad/trasladan-el-cuerpo-del-subteniente-yerson-salazar-a-la-morgue-de-san-ignacio-de-velasco-DC22570571)**
-  Trasladan el cuerpo del subteniente Yerson Salazar a la morgue de San Ignacio de Velasco
+- **Insólito — [Ante ola de crimen, militares salen a resguardar las calles de San Matías](https://unitel.bo/noticias/seguridad/ante-ola-de-crimen-militares-salen-a-resguardar-las-calles-de-san-matias-PN22583286)**
+  Ante ola de crimen, militares salen a resguardar las calles de San Matías
 
-- **Insólito — [Policía anuncia el plan ‘Halcón’ contra el crimen organizado y llegan refuerzos a San Matías](https://unitel.bo/noticias/seguridad/policia-anuncia-el-plan-halcon-contra-el-crimen-organizado-y-llegan-refuerzos-a-san-matias-MC22570185)**
-  Policía anuncia el plan ‘Halcón’ contra el crimen organizado y llegan refuerzos a San Matías
-
-- **Insólito — [Gobierno prevé ingresar cerca de $us 1.200 millones por desembolsos externos en las próximas semanas](https://unitel.bo/noticias/economia/gobierno-preve-ingresar-cerca-de-us-1200-millones-por-desembolsos-externos-en-las-proximas-semanas-CD22569812)**
-  Gobierno prevé ingresar cerca de $us 1.200 millones por desembolsos externos en las próximas semanas
+- **Insólito — [Asesinatos en Santa Cruz: Presidenta de la ALD exige al Gobierno reforzar lucha contra organizaciones criminales](https://unitel.bo/noticias/politica/asesinatos-en-santa-cruz-presidenta-de-la-ald-exige-al-gobierno-reforzar-lucha-contra-organizaciones-criminales-CN22583230)**
+  Asesinatos en Santa Cruz: Presidenta de la ALD exige al Gobierno reforzar lucha contra organizaciones criminales
 
