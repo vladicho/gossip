@@ -1,19 +1,19 @@
 # Gossip
 
-Atualização de 2026-08-08. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
+Atualização de 2026-08-09. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
 
-- **Insólito — [Paz felicita a De la Espriella y plantea fortalecer los lazos de amistad, cooperación e integración con Colombia](https://unitel.bo/noticias/politica/paz-felicita-a-de-la-espriella-y-plantea-fortalecer-los-lazos-de-amistad-cooperacion-e-integracion-con-colombia-HH22703224)**
-  Paz felicita a De la Espriella y plantea fortalecer los lazos de amistad, cooperación e integración con Colombia
+- **Insólito — [¿Quiénes eran los bolivianos abatidos por la Policía Militar de Brasil?](https://unitel.bo/noticias/seguridad/quienes-eran-los-bolivianos-abatidos-por-la-policia-militar-de-brasil-IG22713865)**
+  ¿Quiénes eran los bolivianos abatidos por la Policía Militar de Brasil?
 
-- **Insólito — [Juez de EEUU niega a Marset “reuniones confidenciales” con su abogado uruguayo](https://unitel.bo/noticias/mundo/juez-de-eeuu-niega-a-marset-reuniones-confidenciales-con-su-abogado-uruguayo-JH22702478)**
-  Juez de EEUU niega a Marset “reuniones confidenciales” con su abogado uruguayo
+- **Insólito — [Identifican a los cuatro bolivianos abatidos en un cruce de fuego con la Policía Militar de Brasil](https://unitel.bo/noticias/seguridad/identifican-a-los-cuatro-bolivianos-abatidos-en-un-cruce-de-fuego-con-la-policia-militar-de-brasil-EG22713430)**
+  Identifican a los cuatro bolivianos abatidos en un cruce de fuego con la Policía Militar de Brasil
 
-- **Insólito — [“No es una barrera”: Juan Carlos Villa, el bombero que combate incendios pese a haber perdido parte de un brazo](https://unitel.bo/noticias/sociedad/no-es-una-barrera-juan-carlos-villa-el-bombero-que-combate-incendios-pese-a-haber-perdido-parte-de-un-brazo-CH22702257)**
-  “No es una barrera”: Juan Carlos Villa, el bombero que combate incendios pese a haber perdido parte de un brazo
+- **Insólito — [A una semana del asesinato del veterinario en San Ignacio de Velasco, la Policía divulga una fotografía de los sicarios](https://unitel.bo/noticias/seguridad/a-una-semana-del-asesinato-del-veterinario-en-san-ignacio-de-velasco-la-policia-divulga-una-fotografia-de-los-sicarios-HG22713163)**
+  A una semana del asesinato del veterinario en San Ignacio de Velasco, la Policía divulga una fotografía de los sicarios
 
-- **Insólito — [Libre responde a Paz: “Se puede ganar una elección sin alianzas, pero no se puede gobernar sin acuerdos políticos”](https://unitel.bo/noticias/politica/libre-responde-a-paz-se-puede-ganar-una-eleccion-sin-alianzas-pero-no-se-puede-gobernar-sin-acuerdos-politicos-NH22700793)**
-  Libre responde a Paz: “Se puede ganar una elección sin alianzas, pero no se puede gobernar sin acuerdos políticos”
+- **Insólito — [Tragedia en los Yungas: Un vehículo cae en un barranco y mueren cuatro personas](https://unitel.bo/noticias/seguridad/tragedia-en-los-yungas-un-vehiculo-cae-en-un-barranco-y-mueren-cuatro-personas-OG22712851)**
+  Tragedia en los Yungas: Un vehículo cae en un barranco y mueren cuatro personas
 
-- **Insólito — [Rodrigo Paz participa en la Parada Militar sin brindar un discurso](https://unitel.bo/noticias/politica/rodrigo-paz-participa-en-la-parada-militar-sin-brindar-un-discurso-NP22699657)**
-  Rodrigo Paz participa en la Parada Militar sin brindar un discurso
+- **Insólito — [Abatido en Brasil: Alias ‘Piña’ es “uno de los autores materiales” del asesinato del policía Salazar](https://unitel.bo/noticias/seguridad/abatido-en-brasil-alias-pina-es-uno-de-los-autores-materiales-del-asesinato-del-policia-salazar-MG22710279)**
+  Abatido en Brasil: Alias ‘Piña’ es “uno de los autores materiales” del asesinato del policía Salazar
 
