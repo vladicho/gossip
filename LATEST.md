@@ -1,19 +1,19 @@
 # Gossip
 
-Atualização de 2026-08-09. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
+Atualização de 2026-08-10. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
 
-- **Insólito — [¿Quiénes eran los bolivianos abatidos por la Policía Militar de Brasil?](https://unitel.bo/noticias/seguridad/quienes-eran-los-bolivianos-abatidos-por-la-policia-militar-de-brasil-IG22713865)**
-  ¿Quiénes eran los bolivianos abatidos por la Policía Militar de Brasil?
+- **Insólito — [¿Quién es Daniela Durán, la exdirectora jurídica de YPFB?](https://unitel.bo/noticias/seguridad/quien-es-daniela-duran-la-exdirectora-juridica-de-ypfb-HD22747473)**
+  ¿Quién es Daniela Durán, la exdirectora jurídica de YPFB?
 
-- **Insólito — [Identifican a los cuatro bolivianos abatidos en un cruce de fuego con la Policía Militar de Brasil](https://unitel.bo/noticias/seguridad/identifican-a-los-cuatro-bolivianos-abatidos-en-un-cruce-de-fuego-con-la-policia-militar-de-brasil-EG22713430)**
-  Identifican a los cuatro bolivianos abatidos en un cruce de fuego con la Policía Militar de Brasil
+- **Insólito — [Aprehenden a dos choferes con 30 paquetes de droga en un bus con destino a Santa Cruz](https://unitel.bo/noticias/seguridad/aprehenden-a-dos-choferes-con-30-paquetes-de-droga-en-un-bus-con-destino-a-santa-cruz-PD22746854)**
+  Aprehenden a dos choferes con 30 paquetes de droga en un bus con destino a Santa Cruz
 
-- **Insólito — [A una semana del asesinato del veterinario en San Ignacio de Velasco, la Policía divulga una fotografía de los sicarios](https://unitel.bo/noticias/seguridad/a-una-semana-del-asesinato-del-veterinario-en-san-ignacio-de-velasco-la-policia-divulga-una-fotografia-de-los-sicarios-HG22713163)**
-  A una semana del asesinato del veterinario en San Ignacio de Velasco, la Policía divulga una fotografía de los sicarios
+- **Insólito — [El dólar oficial baja por quinta vez consecutiva: ¿Cuál es la cotización para este martes 11 de agosto?](https://unitel.bo/noticias/economia/el-dolar-oficial-baja-por-quinta-vez-consecutiva-cual-es-la-cotizacion-para-este-martes-11-de-agosto-BD22747042)**
+  El dólar oficial baja por quinta vez consecutiva: ¿Cuál es la cotización para este martes 11 de agosto?
 
-- **Insólito — [Tragedia en los Yungas: Un vehículo cae en un barranco y mueren cuatro personas](https://unitel.bo/noticias/seguridad/tragedia-en-los-yungas-un-vehiculo-cae-en-un-barranco-y-mueren-cuatro-personas-OG22712851)**
-  Tragedia en los Yungas: Un vehículo cae en un barranco y mueren cuatro personas
+- **Insólito — [Evistas convocan a un ampliado nacional para el 26 de septiembre, tras la conclusión del Estado de excepción](https://unitel.bo/noticias/politica/evistas-convocan-a-un-ampliado-nacional-para-el-26-de-septiembre-tras-la-conclusion-del-estado-de-excepcion-CD22745601)**
+  Evistas convocan a un ampliado nacional para el 26 de septiembre, tras la conclusión del Estado de excepción
 
-- **Insólito — [Abatido en Brasil: Alias ‘Piña’ es “uno de los autores materiales” del asesinato del policía Salazar](https://unitel.bo/noticias/seguridad/abatido-en-brasil-alias-pina-es-uno-de-los-autores-materiales-del-asesinato-del-policia-salazar-MG22710279)**
-  Abatido en Brasil: Alias ‘Piña’ es “uno de los autores materiales” del asesinato del policía Salazar
+- **Insólito — [Lara: Desconocer el liderazgo de Tuto es desconocer a más de 2 millones de votantes](https://unitel.bo/noticias/politica/lara-desconocer-el-liderazgo-de-tuto-es-desconocer-a-mas-de-2-millones-de-votantes-HD22745561)**
+  Lara: Desconocer el liderazgo de Tuto es desconocer a más de 2 millones de votantes
 
