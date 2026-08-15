@@ -1,19 +1,19 @@
 # Gossip
 
-Atualização de 2026-08-14. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
+Atualização de 2026-08-15. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
 
-- **Insólito — [En las últimas dos semanas, se registraron al menos tres ataques armados en el trópico de Cochabamba](https://unitel.bo/noticias/seguridad/en-las-ultimas-dos-semanas-se-registraron-al-menos-tres-ataques-armados-en-el-tropico-de-cochabamba-LJ22816409)**
-  En las últimas dos semanas, se registraron al menos tres ataques armados en el trópico de Cochabamba
+- **Insólito — [El hombre asesinado en San Matías era extranjero y recibió cerca de 20 balazos en el cuerpo](https://unitel.bo/noticias/seguridad/el-hombre-asesinado-en-san-matias-era-extranjero-y-recibio-cerca-de-20-balazos-en-el-cuerpo-IM22843931)**
+  El hombre asesinado en San Matías era extranjero y recibió cerca de 20 balazos en el cuerpo
 
-- **Insólito — [Asambleístas departamentales de Otto Ritter presentan proyecto de ley para proteger la labor de los bomberos](https://unitel.bo/noticias/sociedad/asambleistas-departamentales-de-otto-ritter-presentan-proyecto-de-ley-para-proteger-la-labor-de-los-bomberos-PJ22818241)**
-  Asambleístas departamentales de Otto Ritter presentan proyecto de ley para proteger la labor de los bomberos
+- **Insólito — [Ecuador incauta 1,2 toneladas de cocaína ocultas en contenedor con banana que iba a España](https://unitel.bo/noticias/mundo/ecuador-incauta-12-toneladas-de-cocaina-ocultas-en-contenedor-con-banana-que-iba-a-espana-HM22846313)**
+  Ecuador incauta 1,2 toneladas de cocaína ocultas en contenedor con banana que iba a España
 
-- **Insólito — [Vocero Schrupp dice que para que la Gobernación de Santa Cruz importe combustible necesita un Decreto Supremo](https://unitel.bo/noticias/economia/vocero-schrupp-dice-que-para-que-la-gobernacion-de-santa-cruz-importe-combustible-necesita-un-decreto-supremo-MK22825988)**
-  Vocero Schrupp dice que para que la Gobernación de Santa Cruz importe combustible necesita un Decreto Supremo
+- **Insólito — [Transporte Libre convoca a un ampliado nacional este sábado para tratar la escasez de combustible](https://unitel.bo/noticias/economia/transporte-libre-convoca-a-un-ampliado-nacional-este-sabado-para-tratar-la-escasez-de-combustible-AM22846116)**
+  Transporte Libre convoca a un ampliado nacional este sábado para tratar la escasez de combustible
 
-- **Insólito — [¡Atención! Anuncian corte temporal en un tramo en la ruta Cochabamba-Oruro por la Festividad de Urkupiña](https://unitel.bo/noticias/sociedad/atencion-anuncian-corte-temporal-en-un-tramo-en-la-ruta-cochabamba-oruro-por-la-festividad-de-urkupina-GK22826356)**
-  ¡Atención! Anuncian corte temporal en un tramo en la ruta Cochabamba-Oruro por la Festividad de Urkupiña
+- **Insólito — [Vecinos relatan los momentos de temor durante el atrincheramiento de un hombre armado en el Plan Tres Mil](https://unitel.bo/noticias/seguridad/vecinos-relatan-los-momentos-de-temor-durante-el-atrincheramiento-de-un-hombre-armado-en-el-plan-tres-mil-IM22845409)**
+  Vecinos relatan los momentos de temor durante el atrincheramiento de un hombre armado en el Plan Tres Mil
 
-- **Insólito — [Estas son las exautoridades del Gobierno de Paz acusadas por la gasolina basura en el informe de Diputados](https://unitel.bo/noticias/politica/estas-son-las-exautoridades-del-gobierno-de-paz-acusadas-por-la-gasolina-basura-en-el-informe-de-diputados-PK22822683)**
-  Estas son las exautoridades del Gobierno de Paz acusadas por la gasolina basura en el informe de Diputados
+- **Insólito — [Acusan a una mujer de estafar ofreciendo cargos públicos a cambio de dinero; hay al menos tres víctimas](https://unitel.bo/noticias/seguridad/acusan-a-una-mujer-de-estafar-ofreciendo-cargos-publicos-a-cambio-de-dinero-hay-al-menos-tres-victimas-MM22844932)**
+  Acusan a una mujer de estafar ofreciendo cargos públicos a cambio de dinero; hay al menos tres víctimas
 
