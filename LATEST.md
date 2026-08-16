@@ -1,19 +1,19 @@
 # Gossip
 
-Atualização de 2026-08-15. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
+Atualização de 2026-08-16. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
 
-- **Insólito — [El hombre asesinado en San Matías era extranjero y recibió cerca de 20 balazos en el cuerpo](https://unitel.bo/noticias/seguridad/el-hombre-asesinado-en-san-matias-era-extranjero-y-recibio-cerca-de-20-balazos-en-el-cuerpo-IM22843931)**
-  El hombre asesinado en San Matías era extranjero y recibió cerca de 20 balazos en el cuerpo
+- **Insólito — [Un joven es encontrado con un cuchillo clavado en la cabeza y está consciente, señala testigo](https://unitel.bo/noticias/seguridad/un-joven-es-encontrado-con-un-cuchillo-clavado-en-la-cabeza-y-esta-consciente-senala-testigo-BP22870144)**
+  Un joven es encontrado con un cuchillo clavado en la cabeza y está consciente, señala testigo
 
-- **Insólito — [Ecuador incauta 1,2 toneladas de cocaína ocultas en contenedor con banana que iba a España](https://unitel.bo/noticias/mundo/ecuador-incauta-12-toneladas-de-cocaina-ocultas-en-contenedor-con-banana-que-iba-a-espana-HM22846313)**
-  Ecuador incauta 1,2 toneladas de cocaína ocultas en contenedor con banana que iba a España
+- **Insólito — [Vecinos de la Radial 26 reportan balacera en la zona norte de la capital cruceña](https://unitel.bo/noticias/seguridad/vecinos-de-la-radial-26-reportan-balacera-en-la-zona-norte-de-la-capital-crucena-PP22870348)**
+  Vecinos de la Radial 26 reportan balacera en la zona norte de la capital cruceña
 
-- **Insólito — [Transporte Libre convoca a un ampliado nacional este sábado para tratar la escasez de combustible](https://unitel.bo/noticias/economia/transporte-libre-convoca-a-un-ampliado-nacional-este-sabado-para-tratar-la-escasez-de-combustible-AM22846116)**
-  Transporte Libre convoca a un ampliado nacional este sábado para tratar la escasez de combustible
+- **Insólito — [Despliegan 900 policías en el límite con Perú por el Plan Frontera Segura](https://unitel.bo/noticias/seguridad/despliegan-900-policias-en-el-limite-con-peru-por-el-plan-frontera-segura-EO22869782)**
+  Despliegan 900 policías en el límite con Perú por el Plan Frontera Segura
 
-- **Insólito — [Vecinos relatan los momentos de temor durante el atrincheramiento de un hombre armado en el Plan Tres Mil](https://unitel.bo/noticias/seguridad/vecinos-relatan-los-momentos-de-temor-durante-el-atrincheramiento-de-un-hombre-armado-en-el-plan-tres-mil-IM22845409)**
-  Vecinos relatan los momentos de temor durante el atrincheramiento de un hombre armado en el Plan Tres Mil
+- **Insólito — [Velasco por combustible: “tenemos que solucionar nuestros problemas desde Santa Cruz, no podemos al Gobierno”](https://unitel.bo/noticias/politica/velasco-por-combustible-tenemos-que-solucionar-nuestros-problemas-desde-santa-cruz-no-podemos-al-gobierno-GO22868943)**
+  Velasco por combustible: “tenemos que solucionar nuestros problemas desde Santa Cruz, no podemos al Gobierno”
 
-- **Insólito — [Acusan a una mujer de estafar ofreciendo cargos públicos a cambio de dinero; hay al menos tres víctimas](https://unitel.bo/noticias/seguridad/acusan-a-una-mujer-de-estafar-ofreciendo-cargos-publicos-a-cambio-de-dinero-hay-al-menos-tres-victimas-MM22844932)**
-  Acusan a una mujer de estafar ofreciendo cargos públicos a cambio de dinero; hay al menos tres víctimas
+- **Insólito — [“Ya no se aguanta más”: Cívicos cruceños se reunirán el lunes con el presidente de YPFB por crisis de combustible](https://unitel.bo/noticias/economia/ya-no-se-aguanta-mas-civicos-crucenos-se-reuniran-el-lunes-con-el-presidente-de-ypfb-por-crisis-de-combustible-MO22867579)**
+  “Ya no se aguanta más”: Cívicos cruceños se reunirán el lunes con el presidente de YPFB por crisis de combustible
 
