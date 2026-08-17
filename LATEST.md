@@ -1,19 +1,19 @@
 # Gossip
 
-Atualização de 2026-08-16. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
+Atualização de 2026-08-17. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
 
-- **Insólito — [Un joven es encontrado con un cuchillo clavado en la cabeza y está consciente, señala testigo](https://unitel.bo/noticias/seguridad/un-joven-es-encontrado-con-un-cuchillo-clavado-en-la-cabeza-y-esta-consciente-senala-testigo-BP22870144)**
-  Un joven es encontrado con un cuchillo clavado en la cabeza y está consciente, señala testigo
+- **Insólito — [Guayaramerin, la frontera asediada por el crimen mira con esperanza el plan Frontera Segura entre Bolivia y Brasil](https://unitel.bo/noticias/seguridad/guayaramerin-la-frontera-asediada-por-el-crimen-mira-con-esperanza-el-plan-frontera-segura-entre-bolivia-y-brasil-PP22873048)**
+  Guayaramerin, la frontera asediada por el crimen mira con esperanza el plan Frontera Segura entre Bolivia y Brasil
 
-- **Insólito — [Vecinos de la Radial 26 reportan balacera en la zona norte de la capital cruceña](https://unitel.bo/noticias/seguridad/vecinos-de-la-radial-26-reportan-balacera-en-la-zona-norte-de-la-capital-crucena-PP22870348)**
-  Vecinos de la Radial 26 reportan balacera en la zona norte de la capital cruceña
+- **Insólito — [Caos en surtidores: Se forman hasta tres filas por combustible en medio de la desesperación de conductores](https://unitel.bo/noticias/economia/caos-en-surtidores-se-forman-hasta-tres-filas-por-combustible-en-medio-de-la-desesperacion-de-conductores-PP22872278)**
+  Caos en surtidores: Se forman hasta tres filas por combustible en medio de la desesperación de conductores
 
-- **Insólito — [Despliegan 900 policías en el límite con Perú por el Plan Frontera Segura](https://unitel.bo/noticias/seguridad/despliegan-900-policias-en-el-limite-con-peru-por-el-plan-frontera-segura-EO22869782)**
-  Despliegan 900 policías en el límite con Perú por el Plan Frontera Segura
+- **Insólito — [Libre dice que el Gobierno busca “comprar” con “pegas” votos en la Asamblea Legislativa](https://unitel.bo/noticias/politica/libre-dice-que-el-gobierno-busca-comprar-con-pegas-votos-en-la-asamblea-legislativa-HP22872588)**
+  Libre dice que el Gobierno busca “comprar” con “pegas” votos en la Asamblea Legislativa
 
-- **Insólito — [Velasco por combustible: “tenemos que solucionar nuestros problemas desde Santa Cruz, no podemos al Gobierno”](https://unitel.bo/noticias/politica/velasco-por-combustible-tenemos-que-solucionar-nuestros-problemas-desde-santa-cruz-no-podemos-al-gobierno-GO22868943)**
-  Velasco por combustible: “tenemos que solucionar nuestros problemas desde Santa Cruz, no podemos al Gobierno”
+- **Insólito — [Tome previsiones: Pronostican calor extremo y frío en Santa Cruz para la semana que inicia](https://unitel.bo/noticias/sociedad/tome-previsiones-pronostican-calor-extremo-y-frio-en-santa-cruz-para-la-semana-que-inicia-GP22871421)**
+  Tome previsiones: Pronostican calor extremo y frío en Santa Cruz para la semana que inicia
 
-- **Insólito — [“Ya no se aguanta más”: Cívicos cruceños se reunirán el lunes con el presidente de YPFB por crisis de combustible](https://unitel.bo/noticias/economia/ya-no-se-aguanta-mas-civicos-crucenos-se-reuniran-el-lunes-con-el-presidente-de-ypfb-por-crisis-de-combustible-MO22867579)**
-  “Ya no se aguanta más”: Cívicos cruceños se reunirán el lunes con el presidente de YPFB por crisis de combustible
+- **Insólito — [Fiscalía realizó 37 observaciones a la denuncia contra más de 150 exautoridades por el caso hotel Las Américas](https://unitel.bo/noticias/seguridad/fiscalia-realizo-37-observaciones-a-la-denuncia-contra-mas-de-150-exautoridades-por-el-caso-hotel-las-americas-IP22871018)**
+  Fiscalía realizó 37 observaciones a la denuncia contra más de 150 exautoridades por el caso hotel Las Américas
 
