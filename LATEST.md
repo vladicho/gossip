@@ -1,19 +1,19 @@
 # Gossip
 
-Atualização de 2026-08-17. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
+Atualização de 2026-08-22. Títulos e resumos curtos de páginas públicas da Unitel; leia o conteúdo completo na fonte original.
 
-- **Insólito — [Guayaramerin, la frontera asediada por el crimen mira con esperanza el plan Frontera Segura entre Bolivia y Brasil](https://unitel.bo/noticias/seguridad/guayaramerin-la-frontera-asediada-por-el-crimen-mira-con-esperanza-el-plan-frontera-segura-entre-bolivia-y-brasil-PP22873048)**
-  Guayaramerin, la frontera asediada por el crimen mira con esperanza el plan Frontera Segura entre Bolivia y Brasil
+- **Insólito — [“Es una locura”: Esto es lo que dijo Fernando Cerimedo antes de ser trasladado a Palmasola](https://unitel.bo/noticias/seguridad/es-una-locura-esto-es-lo-que-dijo-fernando-cerimedo-antes-de-ser-trasladado-a-palmasola-IA22991678)**
+  “Es una locura”: Esto es lo que dijo Fernando Cerimedo antes de ser trasladado a Palmasola
 
-- **Insólito — [Caos en surtidores: Se forman hasta tres filas por combustible en medio de la desesperación de conductores](https://unitel.bo/noticias/economia/caos-en-surtidores-se-forman-hasta-tres-filas-por-combustible-en-medio-de-la-desesperacion-de-conductores-PP22872278)**
-  Caos en surtidores: Se forman hasta tres filas por combustible en medio de la desesperación de conductores
+- **Insólito — [Amparo de Espinoza contra la censura: Legisladores de Libre y PDC piden a la Justicia respetar la decisión de la Asamblea](https://unitel.bo/noticias/politica/amparo-de-espinoza-contra-la-censura-legisladores-de-libre-y-pdc-piden-a-la-justicia-respetar-la-decision-de-la-asamblea-GA22991610)**
+  Amparo de Espinoza contra la censura: Legisladores de Libre y PDC piden a la Justicia respetar la decisión de la Asamblea
 
-- **Insólito — [Libre dice que el Gobierno busca “comprar” con “pegas” votos en la Asamblea Legislativa](https://unitel.bo/noticias/politica/libre-dice-que-el-gobierno-busca-comprar-con-pegas-votos-en-la-asamblea-legislativa-HP22872588)**
-  Libre dice que el Gobierno busca “comprar” con “pegas” votos en la Asamblea Legislativa
+- **Insólito — [Lanzan el majestuoso Carnaval de Oruro 2027](https://unitel.bo/noticias/sociedad/lanzan-el-majestuoso-carnaval-de-oruro-2027-HA22990447)**
+  Lanzan el majestuoso Carnaval de Oruro 2027
 
-- **Insólito — [Tome previsiones: Pronostican calor extremo y frío en Santa Cruz para la semana que inicia](https://unitel.bo/noticias/sociedad/tome-previsiones-pronostican-calor-extremo-y-frio-en-santa-cruz-para-la-semana-que-inicia-GP22871421)**
-  Tome previsiones: Pronostican calor extremo y frío en Santa Cruz para la semana que inicia
+- **Insólito — [Santa Cruz de la Sierra: Anuncian que Impuestos Municipales atenderá también en sábado este 22 y 29 de agosto](https://unitel.bo/noticias/sociedad/santa-cruz-de-la-sierra-anuncian-que-impuestos-municipales-atendera-tambien-en-sabado-este-22-y-29-de-agosto-IB22989908)**
+  Santa Cruz de la Sierra: Anuncian que Impuestos Municipales atenderá también en sábado este 22 y 29 de agosto
 
-- **Insólito — [Fiscalía realizó 37 observaciones a la denuncia contra más de 150 exautoridades por el caso hotel Las Américas](https://unitel.bo/noticias/seguridad/fiscalia-realizo-37-observaciones-a-la-denuncia-contra-mas-de-150-exautoridades-por-el-caso-hotel-las-americas-IP22871018)**
-  Fiscalía realizó 37 observaciones a la denuncia contra más de 150 exautoridades por el caso hotel Las Américas
+- **Insólito — [Envían a la cárcel con detención preventiva a Fernando Cerimedo por intento de feminicidio](https://unitel.bo/noticias/seguridad/envian-a-la-carcel-con-detencion-preventiva-a-fernando-cerimedo-por-intento-de-feminicidio-CA22990640)**
+  Envían a la cárcel con detención preventiva a Fernando Cerimedo por intento de feminicidio
 
